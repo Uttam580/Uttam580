@@ -13,3 +13,12 @@
   <a href="mailto:choudharyuttam94@gmail.com?subject=Olá%20Uttam"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+
+## Things I'm good at 🔥
+
+Languages: Python, R,SQL, HTML 
+
+Framework: Flask.
+
+Libraries & Tools: AWS,NumPy,EDA,NLP,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization

@@ -17,8 +17,8 @@
 
 ## Things I'm good at 🔥
 
-Languages: Python, R,SQL, HTML 
+:point_right: Languages: Python, R,SQL, HTML 
 
-Framework: Flask.
+:point_right: Framework: Flask.
 
-Libraries & Tools: AWS,NumPy,EDA,NLP,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization
+:point_right: Libraries & Tools: AWS,NumPy,EDA,NLP,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization

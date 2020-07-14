@@ -26,4 +26,4 @@
 
 ### Core Competencies
 
-AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 
+AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, 

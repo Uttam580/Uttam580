@@ -21,4 +21,4 @@
 
 :point_right: Framework: Flask.
 
-:point_right: Libraries & Tools: AWS,NumPy,EDA,NLP,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization
+:point_right: Libraries & Tools: AWS,Data Wrangling, Data Visualization,EDA,Strong Statistical Foundation ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 

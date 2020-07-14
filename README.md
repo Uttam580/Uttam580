@@ -24,4 +24,6 @@
 <img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=60>  
 
 
-:point_right:Core Competencies : AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 
+### Core Competencies
+
+AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 

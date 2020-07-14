@@ -15,9 +15,14 @@
 </p>
 
 
-## Things I'm good at 🔥
+### Programming Languages  :rocket:
 
-:point_right: Languages : Python, R,SQL, HTML 
+<img src="https://github.com/Uttam580/Uttam580/blob/master/img/python.png" width=60> | 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|:---:|:---:|:---:|
+
+
 
 :point_right: Framework : Flask.
 

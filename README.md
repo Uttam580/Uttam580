@@ -20,9 +20,8 @@
 <img src="https://github.com/Uttam580/Uttam580/blob/master/img/python.png" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/r.jpg" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/html.png" width=60>   <img src="https://github.com/Uttam580/Uttam580/blob/master/img/css.jpg" width=60> 
 
 
+###  Framework 
+<img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=60>  
 
-
-
-:point_right: Framework : Flask.
 
 :point_right:Core Competencies : AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 

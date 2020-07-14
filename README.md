@@ -21,4 +21,4 @@
 
 :point_right: Framework : Flask.
 
-:point_right: Libraries & Tools : AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 
+:point_right:Core Competencies : AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Ensemble                Methods,Model Development & Evaluation Metrics, 

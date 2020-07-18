@@ -8,6 +8,8 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Uttam580.Uttam580"></a>
 </p>
 
+[![HitCount](http://hits.dwyl.com/Uttam580/Uttam580.svg)](http://hits.dwyl.com/Uttam580/Uttam580)
+
 
 ### Get in touch :point_down: 
 

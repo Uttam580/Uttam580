@@ -15,7 +15,7 @@
 
 ### Programming Languages  :rocket:
 
-<img src="https://github.com/Uttam580/Uttam580/blob/master/img/python.png" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/r.jpg" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/html_css_js.jpg" width=60 , height=100> 
+<img src="https://github.com/Uttam580/Uttam580/blob/master/img/python.png" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/r.jpg" width=60>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/html_css_js.jpg" width=60 height=100> 
 
 
 ###  Framework 

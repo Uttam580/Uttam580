@@ -8,6 +8,8 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Uttam580.Uttam580"></a>
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Uttam580)
+
 
 ### Get in touch :point_down: 
 

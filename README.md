@@ -8,7 +8,6 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Uttam580.Uttam580"></a>
 </p>
 
-![GitHub watchers](https://img.shields.io/github/watchers/Uttam580/Uttam580?style=social)
 
 ### Get in touch :point_down: 
 

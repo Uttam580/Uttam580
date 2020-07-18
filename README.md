@@ -8,6 +8,8 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Uttam580.Uttam580"></a>
 </p>
 
+![GitHub watchers](https://img.shields.io/github/watchers/Uttam580/Uttam580?style=social)
+
 ### Get in touch :point_down: 
 
   <a href="https://www.linkedin.com/in/uttam-choudhary-980554110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

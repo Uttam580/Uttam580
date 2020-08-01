@@ -22,7 +22,7 @@
 
 
 ###  Framework 
-<img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=80 height=80>  
+<img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=40 height=40>  
 
 
 ### Core Competencies

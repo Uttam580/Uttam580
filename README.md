@@ -10,21 +10,21 @@
 
 
 
-### Get in touch :point_down: 
+####  Get in touch :point_down: 
 
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:choudharyuttam94@gmail.com?subject=Olá%20Uttam"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href ="https://medium.com/@uttam94"> <img src = "https://github.com/Uttam580/Uttam580/blob/master/img/medium.png" width=60 height=30>
 
-### Programming Languages  :rocket:
+#### Programming Languages  :rocket:
 
 <img src="https://github.com/Uttam580/Uttam580/blob/master/img/python.png" width=40 height=40>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/r.jpg" width=40 height=40>  <img src="https://github.com/Uttam580/Uttam580/blob/master/img/html.png" width=40 height=40> <img src="https://github.com/Uttam580/Uttam580/blob/master/img/css.jpg" width=40 height=40><img src="https://github.com/Uttam580/Uttam580/blob/master/img/js.png" width=40 height=40>
 
 
-###  Framework 
+####  Framework 
 <img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=40 height=40>  
 
 
-### Core Competencies
+#### Core Competencies
 
 AWS,Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, 

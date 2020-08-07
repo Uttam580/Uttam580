@@ -30,16 +30,11 @@
 <br />
 
 
-####  Framework 
-<img src="https://github.com/Uttam580/Uttam580/blob/master/img/flask.png" width=40 height=40>  
-
-
 #### Core Competencies
 
 Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, aws
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast"/>
-
 
 
 [Medium]:https://medium.com/@uttam94

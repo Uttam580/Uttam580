@@ -45,7 +45,10 @@ Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , 
 <img align="left" alt="Uttam's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast&layout=compact"/>
 
 <br />
+<br/>
+<p>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, 
+ </p>
 
 [Medium]:https://medium.com/@uttam94
 [Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHFPJQPrgCjqCcxwNDPKtjphPjbFQCgQMjvvFWjZfBgHsBxxxfQthvMCBQzbLXZZcPjXq

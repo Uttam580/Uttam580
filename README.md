@@ -29,4 +29,4 @@
 
 Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, aws
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast"/>

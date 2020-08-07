@@ -36,7 +36,8 @@ Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , 
 
 
 [Medium]:https://medium.com/@uttam94
+[Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHFPJQPrgCjqCcxwNDPKtjphPjbFQCgQMjvvFWjZfBgHsBxxxfQthvMCBQzbLXZZcPjXq
+[linkedin]: #
 
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHFPJQPrgCjqCcxwNDPKtjphPjbFQCgQMjvvFWjZfBgHsBxxxfQthvMCBQzbLXZZcPjXq
 
 

@@ -39,11 +39,12 @@
 
 Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, aws
 
+<! repo card !>
 
+<img align="left" alt="Uttam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast"/>
+<img align="left" alt="Uttam's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam580&show_icons=true&theme=highcontrast"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast" alt="Uttam's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam580&show_icons=true&layout=compact&theme=highcontrast" />
-
+<!link !>
 [Medium]:https://medium.com/@uttam94
 [Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHFPJQPrgCjqCcxwNDPKtjphPjbFQCgQMjvvFWjZfBgHsBxxxfQthvMCBQzbLXZZcPjXq
 [linkedin]: #

@@ -8,7 +8,7 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Uttam580.Uttam580"></a>
 </p>
 
-
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg
 
   
   ### Connect with me:
@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
 
 #### Programming Languages  :rocket:
 
@@ -39,6 +40,6 @@ Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , 
 [Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHFPJQPrgCjqCcxwNDPKtjphPjbFQCgQMjvvFWjZfBgHsBxxxfQthvMCBQzbLXZZcPjXq
 [linkedin]: #
 [instagram]: https://instagram.com/__uttam__94
-
+[Quora]:https://www.quora.com/profile/Uttam-Choudhary-15
 
 

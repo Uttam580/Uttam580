@@ -14,8 +14,8 @@
 [<img align="left" alt="Uttam580 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="Uttam580 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 [<img align="left" alt="Uttam580 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Uttam580 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Uttam580 | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
+[<img align="left" alt="Uttam580 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -39,7 +39,7 @@
 
 Data Wrangling, Data Visualization,EDA,Statistical analysis ,Machine Learning , Natural Language processing ,Deep Learning ,Time Series Anlaysis,Model Development & Evaluation Metrics, aws
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast"/>
+<img align="left" alt="Uttam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uttam580&show_icons=true&hide_border=true&theme=highcontrast"/>
 
 
 [Medium]:https://medium.com/@uttam94
